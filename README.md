@@ -21,7 +21,7 @@ Built with: Streamlit + TensorFlow + Matplotlib
 🌐 Live demo on Hugging Face Spaces:
 👉 Try it here
 📦 GitHub repo:
-https://github.com/yourusername/nyc-taxi-anomaly
+https://github.com/DanielaBalaniuc/nyctaxiapp.com
 
 Would love feedback, stars ⭐, and thoughts on next steps—maybe integrating weather data or deploying it with real-time APIs?
 
