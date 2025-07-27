@@ -23,6 +23,8 @@ Built with: Streamlit + TensorFlow + Matplotlib
 📦 GitHub repo:
 https://github.com/DanielaBalaniuc/nyctaxiapp.com
 
+[![Hugging Face Spaces](https://huggingface.co/spaces/Daniela-C/nyctaxiapp.com)
+
 Would love feedback, stars ⭐, and thoughts on next steps—maybe integrating weather data or deploying it with real-time APIs?
 
 #MachineLearning #AnomalyDetection #DeepLearning #TimeSeries #LSTM #Streamlit #DataScience #NYC
