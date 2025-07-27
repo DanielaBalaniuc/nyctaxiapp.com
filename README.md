@@ -23,7 +23,8 @@ Built with: Streamlit + TensorFlow + Matplotlib
 📦 GitHub repo:
 https://github.com/DanielaBalaniuc/nyctaxiapp.com
 
-[![Hugging Face Spaces](https://huggingface.co/spaces/Daniela-C/nyctaxiapp.com)
+[![Hugging Face Spaces](https://img.shields.io/badge/HF%20Spaces-NYC%20Taxi%20Anomaly-orange?logo=streamlit)](https://huggingface.co/spaces/Daniela-C/nyctaxiapp.com)
+
 
 Would love feedback, stars ⭐, and thoughts on next steps—maybe integrating weather data or deploying it with real-time APIs?
 
